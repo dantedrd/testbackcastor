@@ -20,7 +20,7 @@ test back castor es una aplicación Spring Boot desarrollada para guardar los da
 ## Configuración y Ejecución
 ### Configuración Local
 1. Clonar el repositorio.
-2 Ejecutar el proyecto utilizando el comando Gradle:
+2. Ejecutar el proyecto utilizando el comando Gradle:
    ```shell
    ./gradlew bootRun
 
