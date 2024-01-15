@@ -6,7 +6,7 @@ test back castor es una aplicación Spring Boot desarrollada para guardar los da
 ## Características
 - **Spring Boot 3.2.1**: Framework para facilitar la configuración y despliegue.
 - **Java 17**: Versión del lenguaje de programación.
-- **Postgresql**: Base de datos en memoria para almacenar los resultados de las operaciones.
+- **Postgresql**: Base de datos relacionar para almacenar los resultados de las operaciones.
 - **Swagger UI**: Interfaz de usuario para interactuar fácilmente con la API.
 
 ## Metodología y Principios de Desarrollo
