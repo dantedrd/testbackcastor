@@ -1,7 +1,7 @@
 # Test back castor
 
 ## Descripción
-test back facotor es una aplicación Spring Boot desarrollada para guardar los datos de emepleados atraves de una API REST.
+test back castor es una aplicación Spring Boot desarrollada para guardar los datos de emepleados atraves de una API REST.
 
 ## Características
 - **Spring Boot 3.2.1**: Framework para facilitar la configuración y despliegue.
